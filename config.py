@@ -30,7 +30,7 @@ SUDO_USERS.append(1410250744)
 SUDO_USERS.append(5327845950)
 SUDO_USERS.append(1211015395)
 
-OWNER_ID = int(os.environ.get("OWNER_ID", None))
+OWNER_ID = int(os.environ.get("26689028", None))
 
 
 # Don't Mess with Codes !! 
